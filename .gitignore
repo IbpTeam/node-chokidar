@@ -1,0 +1,8 @@
+build
+out
+Release
+Debug
+.deps
+.DS_Store
+.swp
+*~
